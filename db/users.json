@@ -1,17 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Maksym",
-    "email": "feden@gmail.com",
-    "password": "qwe123"
-  },
-  {
-    "id": 2,
-    "name": "Alina",
-    "email": "alindosik@gmail.com",
-    "password": "ert345"
-  },
-  {
     "id": 3,
     "name": "Anna",
     "email": "ann43@gmail.com",
@@ -70,5 +58,23 @@
     "name": "Maks 2",
     "email": "test@te.com",
     "password": "qwe123"
+  },
+  {
+    "id": 14,
+    "name": "Robert",
+    "email": "2232@te.com",
+    "password": "q1we123"
+  },
+  {
+    "id": 15,
+    "name": "Robert 2",
+    "email": "2232@te.com",
+    "password": "q1we123"
+  },
+  {
+    "id": 16,
+    "name": "Robert 3",
+    "email": "2232@te.com",
+    "password": "q1we123"
   }
 ]

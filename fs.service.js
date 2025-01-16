@@ -12,7 +12,7 @@ module.exports = {
             console.error('Error:',error.message);
         }
     },
-    write: async () => {
+    write: async (users) => {
         try {
             await fs.writeFile(pathToFile, JSON.stringify(users, null, 2));
         } catch (error) {
